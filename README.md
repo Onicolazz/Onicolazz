@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Nicolas Lima 👋</h1>
+<h1 align="center">Olá, eu sou o Nicolas 👋</h1>
 
 <p align="center">
   <b>Estudante de Desenvolvimento de Software Multiplataforma</b><br>
@@ -71,7 +71,7 @@
     <td><b>Dashboards Inteligentes</b></td>
     <td>Dashboards que integram dados de diferentes fontes para monitoramento de parada de máquina em tempo real.</td>
     <td>Power BI</td>
-    <td><a href="[link do repositório]">Repositório</a></td>
+    <td><a href="https://github.com/Onicolazz/Controle-de-Perda-de-Produto">Repositório</a></td>
   </tr>
   <tr>
     <td><b>Automação VBA integrada ao SAP</b></td>
