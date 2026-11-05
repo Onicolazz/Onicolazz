@@ -65,7 +65,7 @@
     <td><b>ABC Virtual</b></td>
     <td>Plataforma web de alfabetização gamificada com tema espacial. TCC desenvolvido na ETEC Albert Einstein.</td>
     <td>Next.js 14 (App Router) + React 18 + styled-components</td>
-    <td><a href="[link do repositório]">Repositório</a></td>
+    <td><a href="https://github.com/Onicolazz/ABC-Virtual">Repositório</a></td>
   </tr>
   <tr>
     <td><b>Dashboards Inteligentes</b></td>
