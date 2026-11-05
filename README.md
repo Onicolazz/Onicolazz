@@ -62,8 +62,8 @@
     <th align="left">Link</th>
   </tr>
   <tr>
-    <td><b>API REST – Gestão Acadêmica</b></td>
-    <td>API para gerenciamento de dados acadêmicos, com operações CRUD, banco relacional e boas práticas de arquitetura e segurança.</td>
+    <td><b>ABC Virtual</b></td>
+    <td>Plataforma web de alfabetização gamificada com tema espacial. TCC desenvolvido na ETEC Albert Einstein.</td>
     <td>Next.js 14 (App Router) + React 18 + styled-components</td>
     <td><a href="[link do repositório]">Repositório</a></td>
   </tr>
